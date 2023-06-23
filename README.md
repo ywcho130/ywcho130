@@ -1,8 +1,8 @@
-### Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=%20&fontSize=70" />
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&text=%20&fontSize=70" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&height=50&lines=Hi%2C+I'm+YongWoo!)](https://git.io/typing-svg)<br>
+"The only way to do great work is to love what you do." - Steve Jobs
+<br>
+  I'm currentry learning &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" alt="Pencil" width="20" height="20" />
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="44" height="44" /></div>
 <!--
 **ywcho130/ywcho130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
