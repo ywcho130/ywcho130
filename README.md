@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=%20&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=%20&fontSize=70" />
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer&text=%20&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&text=%20&fontSize=70" />
 <!--
 **ywcho130/ywcho130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
